@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/nahid/Documents/L2/Docker/Session/university-management-core-service/logs/winston/successes/.c9df3e16ac705a17b77d794eac290d2ef88df433-audit.json",
+    "files": [
+        {
+            "date": 1701429701526,
+            "name": "/Users/nahid/Documents/L2/Docker/Session/university-management-core-service/logs/winston/successes/phu-2023-01-12-17-success.log",
+            "hash": "6c3aae13c1a8bcc5e9f1c2b964f4f5b11cb738d6d75502c13d709aa8a2e4f7da"
+        }
+    ],
+    "hashType": "sha256"
+}
